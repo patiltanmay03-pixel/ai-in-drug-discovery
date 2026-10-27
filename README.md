@@ -3,9 +3,8 @@
 **Field:** Bioengineering  
 **Level:** First Year  
 **Project type:** Introductory research + educational coding demo  
-**Author:** [Your Name]  
-**Institution:** [Your College Name]
-
+**Author:** [Tanmay Patil ]  
+**Institution:** [ DY PATIL INTERNATIONAL UNIVERSITY]
 ## 1. Introduction
 Drug discovery is the process of identifying and developing potential medicines. It often involves studying biological targets, screening chemical compounds, laboratory experiments, and clinical trials. Artificial intelligence (AI) and machine learning can help researchers analyse large datasets and prioritise compounds for further investigation.
 
